@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Sensor Test App</string>
+    <string name="proximity_label">Proximity Sensor</string>
+    <string name="proximity_value">%1$.2f</string>
+    <string name="proximity_expression" />
+    <string name="accl_label">Accelerometer (m/s2)</string>
+    <string name="xaccl_value">X : %1$.2f </string>
+    <string name="yaccl_value">Y : %1$.2f </string>
+    <string name="zaccl_value">Z : %1$.2f </string>
+    <string name="gyro_label">Gyroscope (rad/s)</string>
+    <string name="xgyro_value">X : %1$.2f</string>
+    <string name="ygyro_value">Y : %1$.2f</string>
+    <string name="zgyro_value">Z : %1$.2f</string>
+    <string name="magn_label">Magnetometer (μT)</string>
+    <string name="xmagn_value">X : %1$.2f</string>
+    <string name="ymagn_value">Y : %1$.2f</string>
+    <string name="zmagn_value">Z : %1$.2f</string>
+    <string name="pedometer_label">Steps</string>
+    <string name="pedometer_value">%1$.0f </string>
+    <string name="light_label">Light Intensity (lx)</string>
+    <string name="light_value">%1$.2f </string>
+    <string name="temp_label">Ambient Temperature (deg C)</string>
+    <string name="temp_value">%1$.2f </string>
+    <string name="bulleted_list">
+        <li>https://stackoverflow.com/questions/42677536/how-to-use-sensor-event-method-in-fragment-class</li>\n\n
+        <li>https://youtu.be/7zaKUc2zfpI</li>\n\n
+        <li>https://developer.android.com/guide/topics/sensors/sensors_overview</li>\n\n
+        <li>https://google-developer-training.github.io/android-developer-advanced-course-practicals/unit-1-expand-the-user-experience/lesson-3-sensors/3-1-p-working-with-sensor-data/3-1-p-working-with-sensor-data.html</li>\n\n
+        <li>https://android--code.blogspot.com/2016/03/android-how-to-display-bulleted-list-on.html</li>\n\n
+        <li>https://montemagno.com/part-1-my-stepcounter-android-step-sensors/</li>\n\n
+        <li>https://stackoverflow.com/questions/10770055/use-toast-inside-fragment</li>\n\n
+        <li>Also thanks to Shreedhar!</li>\n\n
+    </string>
+    <string name="ref_text">This App was developed by using the following links and sources-</string>
+    <string name="Home_Hi">Hi Everyone!</string>
+    <string name="Home_text">This is a Sensor Testing Application for Android Phones!</string>
+    <string name="Home_end">The App displays different sensors on your phone in a simple tabbed layout.
+        It also surveys the list of all the different sensors available in your phone.</string>
+</resources>
